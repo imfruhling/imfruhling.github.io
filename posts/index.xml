@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My Blog</title>
+    <link>https://imfruhling.github.io/posts/</link>
+    <description>Recent content in Posts on My Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 May 2025 12:00:00 +0800</lastBuildDate>
+    <atom:link href="https://imfruhling.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First AI Article</title>
+      <link>https://imfruhling.github.io/posts/my-first-post/</link>
+      <pubDate>Fri, 09 May 2025 12:00:00 +0800</pubDate>
+      <guid>https://imfruhling.github.io/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Welcome to my first blog post generated with Hugo and deployed via GitHub Pages!&lt;/p&gt;&#xA;&lt;p&gt;This blog will explore AI tools, prompts, automation, and how to make money online with AI.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
